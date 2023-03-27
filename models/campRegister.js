@@ -16,6 +16,10 @@ const createCamper = async (req, res) => {
     res.send(`Success, registered ${newCamper.name}`); 
 };
 
+const getAllCampers = async (req, res) => {
+    const allCampers = await Camper.find()
+    res.send(allCampers)
+}
 
-export { createCamper }
+export { createCamper, getAllCampers }
 
