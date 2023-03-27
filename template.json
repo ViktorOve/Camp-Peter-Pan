@@ -1,0 +1,7 @@
+{
+    "name": "John", 
+    "age": 12,
+    "height": "120cm",
+    "country": "Nigeria",
+    "allergies": ["peanuts", "orange"]
+}
