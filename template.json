@@ -1,7 +1,121 @@
 {
-    "name": "John", 
-    "age": 12,
-    "height": "120cm",
-    "country": "Nigeria",
-    "allergies": ["peanuts", "orange"]
+    "name": "Mezut Ozil", 
+    "age": 11,
+    "height": "136cm",
+    "country": "Germany",
+    "allergies": ["Pork", "Milk", "Pollen"]
 }
+
+
+{"name": "Bukayo Saka", 
+"age": 9,
+"height": "132cm",
+"country": "England",
+"allergies": ["Fish", "Cats"]
+}
+
+{"name": "Kylian Mbappe",
+"age": 10,
+"height": "138cm",
+"country": "France",
+"allergies": []
+}
+
+
+{"name": "Mikel Obi",
+"age": 13,
+"height": "155cm",
+"country": "Nigeria",
+"allergies": ["Almonds", "Cats"]
+}
+
+
+{"name": "Victor Osihmen",
+"age": 9,
+"height": "133cm",
+"country": "Nigeria",
+"allergies": ["Cats,", "Pork"]
+}
+
+{"name": "Paul Scholes",
+"age": 12,
+"height": "149cm",
+"country": "England",
+"allergies": ["Wheat", "Rabbits"]
+}
+
+{"name": "Ryan Giggs",
+"age": 13,
+"height": "132cm",
+"country": "England",
+"allergies": ["Peanuts", "Cashews", "Dogs"]
+}
+
+{"name": "Romelu Lukaku",
+"age": 13,
+"height": "149cm",
+"country": "Belgium",
+"allergies": ["Fish", "Pollen"]
+}
+
+{"name": "Zinedine Zidane",
+"age": 13,
+"height": "149",
+"country": "France",
+"allergies": ["Wheat", "Milk", "Dogs"]
+}
+
+{"name": "Mohammed Salah",
+"age": 11,
+"height": "143cm",
+"country": "Egypt",
+"allergies": ["Pork", "Soy", "Egss"]
+}
+
+{"name": "Paul Pogba",
+"age": 12,
+"height": "155cm",
+"country": "France",
+"allergies": ["Pork"]
+}
+
+{"name": "Kevin DeBruyne",
+"age": 12,
+"height": "153cm",
+"country": "Belgium",
+"allergies": ["Eggs", "Mold", "Dogs"]
+}
+
+{"name": "David Silva",
+"age": 13,
+"height": "150cm",
+"country": "Spain",
+"allergies": ["Peanuts", "Fish", "Cats"]
+}
+
+{"name": "Obafemi Martins",
+"age": 13,
+"height": "148cm",
+"country": "Nigeria",
+"allergies": ["Cats", "Mold", "Wheat"]
+}
+
+{"name": "Rio Ferdinand",
+"age": 12,
+"height": "156cm",
+"country": "England",
+"allergies": ["Cats", "Fish", "Peanuts"]
+}
+
+{"name": "Cesc Fabregas",
+"age": 13,
+"height": "145cm",
+"country": "Spain",
+"allergies": ["Cashews", "Milk"]
+}
+
+
+
+
+
+
