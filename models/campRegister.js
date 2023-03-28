@@ -21,5 +21,20 @@ const getAllCampers = async (req, res) => {
     res.send(allCampers)
 }
 
-export { createCamper, getAllCampers }
+const updateCamper = async (req, res) => {
+    const id = req.params.id
+    const newData = req.body
+    
+    const updatedCamper = await Camper.findByIdAndUpdate(id, newData, {new: true})
+    res.send(`Updated ${updatedCamper.name}`)
+}
+
+const deleteCamper = async (req, res) => {
+    const id = req.params.id
+    
+    const deletedCamper = await Camper.findByIdAndDelete (id)
+    res.send(`Deleted ${deletedCamper.name}`)
+}
+
+export { createCamper, getAllCampers, updateCamper, deleteCamper }
 
