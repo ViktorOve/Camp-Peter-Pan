@@ -1,5 +1,5 @@
 import express  from "express";
-import { createCamper, getAllCampers, updateCamper, deleteCamper } from "../models/campRegister.js";
+import { createCamper, getAllCampers, updateCamper, deleteCamper,} from "../models/campRegister.js";
 
 const router = express.Router()
 
